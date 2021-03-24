@@ -1,1 +1,2 @@
 node_modules
+# recordar habilitar la ip publica en la web de mongo atlas para poder conectar desde mongo compass
